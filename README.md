@@ -1,5 +1,7 @@
 # VidGet
 
+![VidGet_title](https://drive.google.com/uc?export=view&id=1_3RMVq4WNgtDb9pi5mVrIbbwMbhUvjXR)
+
 **VidGet** allows you to quickly and easily download videos and music from YouTube to your personal computer in just a few minutes.
 
 ## How to Use VidGet
